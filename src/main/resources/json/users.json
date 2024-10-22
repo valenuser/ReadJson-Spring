@@ -1,0 +1,354 @@
+[
+  {
+    "nombre": "Miguel Ortega",
+    "edad": 26,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Sara Navarro",
+    "edad": 31,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "David Herrera",
+    "edad": 29,
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Clara Romero",
+    "edad": 24,
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Fernando Jiménez",
+    "edad": 38,
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Isabel Gil",
+    "edad": 22,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Javier Castillo",
+    "edad": 34,
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Patricia Muñoz",
+    "edad": 27,
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Andrés Suárez",
+    "edad": 30,
+    "ciudad": "Córdoba"
+  },
+  {
+    "nombre": "Alicia Ramos",
+    "edad": 28,
+    "ciudad": "Alicante"
+  },
+  {
+    "nombre": "Pablo Vega",
+    "edad": 40,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Teresa Ruiz",
+    "edad": 23,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Santiago Morales",
+    "edad": 36,
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Rocío Domínguez",
+    "edad": 32,
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Manuel Rivas",
+    "edad": 29,
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Cristina Díaz",
+    "edad": 26,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Adrián Fuentes",
+    "edad": 33,
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Laura Márquez",
+    "edad": 25,
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Raquel Aguilar",
+    "edad": 31,
+    "ciudad": "Córdoba"
+  },
+  {
+    "nombre": "Iván Pérez",
+    "edad": 28,
+    "ciudad": "Alicante"
+  },
+  {
+    "nombre": "Sofía Gómez",
+    "edad": 35,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Daniel Ruiz",
+    "edad": 24,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Antonio Flores",
+    "edad": 37,
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Eva Castillo",
+    "edad": 27,
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Álvaro Vázquez",
+    "edad": 39,
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Mónica Ortega",
+    "edad": 30,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Rubén Sánchez",
+    "edad": 33,
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Carla Torres",
+    "edad": 25,
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Gonzalo Romero",
+    "edad": 32,
+    "ciudad": "Córdoba"
+  },
+  {
+    "nombre": "Natalia Moreno",
+    "edad": 28,
+    "ciudad": "Alicante"
+  },
+  {
+    "nombre": "Óscar Pérez",
+    "edad": 29,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Carmen Soto",
+    "edad": 34,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Sergio Morales",
+    "edad": 36,
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Inés López",
+    "edad": 31,
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Mario Martín",
+    "edad": 40,
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Verónica Gil",
+    "edad": 27,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Felipe Navarro",
+    "edad": 38,
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Beatriz Hernández",
+    "edad": 24,
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Esteban Domínguez",
+    "edad": 33,
+    "ciudad": "Córdoba"
+  },
+  {
+    "nombre": "Alba Peña",
+    "edad": 29,
+    "ciudad": "Alicante"
+  },
+  {
+    "nombre": "Rafael Sánchez",
+    "edad": 36,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Lourdes Moreno",
+    "edad": 23,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Tomás Cruz",
+    "edad": 31,
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Violeta Medina",
+    "edad": 28,
+    "ciudad": "Sevilla"
+  },
+  {
+    "nombre": "Ángel Blanco",
+    "edad": 35,
+    "ciudad": "Bilbao"
+  },
+  {
+    "nombre": "Silvia Castro",
+    "edad": 29,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Gabriel Méndez",
+    "edad": 41,
+    "ciudad": "Málaga"
+  },
+  {
+    "nombre": "Yolanda Ortiz",
+    "edad": 30,
+    "ciudad": "Granada"
+  },
+  {
+    "nombre": "Pedro Sánchez",
+    "edad": 32,
+    "ciudad": "Córdoba"
+  },
+  {
+    "nombre": "Lorena Gómez",
+    "edad": 27,
+    "ciudad": "Alicante"
+  },
+  {
+    "nombre": "Marcos Varela",
+    "edad": 26,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Elena Pastor",
+    "edad": 34,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Francisco Paredes",
+    "edad": 30,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Nuria Ibáñez",
+    "edad": 28,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Joaquín Montoya",
+    "edad": 37,
+    "ciudad": "Barcelona"
+  },
+  {
+    "nombre": "Patricia Navas",
+    "edad": 29,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Ricardo Cáceres",
+    "edad": 35,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Marina Gómez",
+    "edad": 32,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Álvaro Estrada",
+    "edad": 27,
+    "ciudad": "Madrid"
+  },
+  {
+    "nombre": "Claudia Ferrer",
+    "edad": 26,
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Victor Salinas",
+    "edad": 31,
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Marta Beltrán",
+    "edad": 28,
+    "ciudad": "Valencia"
+  },
+  {
+    "nombre": "Ignacio Pastor",
+    "edad": 34,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Adela Lorente",
+    "edad": 27,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Jorge Molina",
+    "edad": 30,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Sandra Pérez",
+    "edad": 25,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Eduardo Lozano",
+    "edad": 29,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Lidia Morales",
+    "edad": 32,
+    "ciudad": "Zaragoza"
+  },
+  {
+    "nombre": "Fabián Peña",
+    "edad": 36,
+    "ciudad": "Zaragoza"
+  }
+]
+
+
+
+
+
+
+

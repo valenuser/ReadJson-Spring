@@ -1,0 +1,42 @@
+[
+  {
+    "ciudad": "Madrid",
+    "habitantes": 3265000
+  },
+  {
+    "ciudad": "Barcelona",
+    "habitantes": 1620000
+  },
+  {
+    "ciudad": "Valencia",
+    "habitantes": 791000
+  },
+  {
+    "ciudad": "Sevilla",
+    "habitantes": 684000
+  },
+  {
+    "ciudad": "Bilbao",
+    "habitantes": 346000
+  },
+  {
+    "ciudad": "Zaragoza",
+    "habitantes": 675000
+  },
+  {
+    "ciudad": "Málaga",
+    "habitantes": 578000
+  },
+  {
+    "ciudad": "Granada",
+    "habitantes": 232000
+  },
+  {
+    "ciudad": "Córdoba",
+    "habitantes": 326000
+  },
+  {
+    "ciudad": "Alicante",
+    "habitantes": 337000
+  }
+]
